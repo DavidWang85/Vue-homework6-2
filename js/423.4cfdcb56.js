@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkw6_2"]=self["webpackChunkw6_2"]||[]).push([[423],{423:function(n,r,u){u.r(r),u.d(r,{default:function(){return s}});var e=u(252);function t(n,r){return(0,e.wg)(),(0,e.iD)("h2",null,"後台產品列表")}var c=u(744);const a={},f=(0,c.Z)(a,[["render",t]]);var s=f}}]);
+//# sourceMappingURL=423.4cfdcb56.js.map
